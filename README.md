@@ -4,6 +4,8 @@ language: setswana
 
 # TswanaBert
 
+![bert](TswanaBert.jpg)
+
 ## Model Description.
 TswanaBERT is a transformers model pretrained on a corpus of Setswana data in a self-supervised fashion by masking part of the input words and training to predict the masks.
 
