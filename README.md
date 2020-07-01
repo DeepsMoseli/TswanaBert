@@ -7,7 +7,7 @@ language: setswana
 ![bert](TswanaBert.jpg)
 
 ## Model Description.
-TswanaBERT is a transformers model pretrained on a corpus of Setswana data in a self-supervised fashion by masking part of the input words and training to predict the masks.
+TswanaBERT is a transformer model pretrained on a corpus of Setswana data in a self-supervised fashion by masking part of the input words and training to predict the masks.
 
 ## Intended uses & limitations
 The model can  be used for either masked language modeling or next word prediction. it can also be fine-tuned for a specifict application. 
